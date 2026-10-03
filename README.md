@@ -13,10 +13,8 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=180&section=header&text=Sahil%20Kumar&fontSize=45&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/archlinux/archlinux-artwork/master/banners/archlinux-banner-light.png" width="100%" />
 </p>
-
----
 
 ### 💻 Languages
 <p align="left">
