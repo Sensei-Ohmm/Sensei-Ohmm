@@ -31,12 +31,13 @@
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
+
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sensei-Ohmm&show_icons=true&theme=radial&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sensei-Ohmm&layout=compact&theme=radial&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sensei-Ohmm&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sensei-Ohmm&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
