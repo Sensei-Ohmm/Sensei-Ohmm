@@ -1,5 +1,3 @@
-# Hi there, I'm Sahil 👋
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn" width="100%" />
 </p>
@@ -11,10 +9,6 @@
 - 📫 How to reach me: `your.email@example.com`
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/archlinux/archlinux-artwork/master/banners/archlinux-banner-light.png" width="100%" />
-</p>
 
 ### 💻 Languages
 <p align="left">
