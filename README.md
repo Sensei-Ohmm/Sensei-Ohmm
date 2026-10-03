@@ -3,9 +3,7 @@
 </p>
 
 ### 💫 About Me
-- 🔭 I’m currently working on exciting software & game dev projects.
-- 🌱 Learning new frameworks and system architecture every day.
-- 💬 Ask me about game frameworks, backend architecture, or app development!
+- 🛠️ Just someone passionate about building innovative software, learning new technologies, and creating cool projects.
 - 📫 How to reach me: `your.email@example.com`
 
 ---
