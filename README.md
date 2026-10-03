@@ -11,6 +11,13 @@
 - 📫 How to reach me: `your.email@example.com`
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=180&section=header&text=Sahil%20Kumar&fontSize=45&animation=fadeIn" width="100%" />
+</p>
+
+---
+
 ### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -40,9 +47,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sensei-Ohmm&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
-
-### 🌆 Banner / Panorama
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Abstract Header" width="100%" height="200px" style="object-fit: cover;" />
-</p>
